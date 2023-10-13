@@ -1,0 +1,1 @@
+An application using Flutter where the user will be prompted with different questions based on popular TV show Friends. The indication of right/wrong for the question is provided once user selects one of the available options. And a total score is provided at the end.
